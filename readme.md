@@ -31,3 +31,6 @@ https://drive.google.com/drive/folders/1wytT0t7CirUZw0_w3qFvhVn4dUgtPjX1?usp=sha
 ## Model Architecture
 ![model architecture](https://github.com/EricFeng20001120/Generative-Diffusion-Model/blob/main/result/Model%20Architecture%20Visualization/U-Net.drawio.png)
 
+## Qualitative Result
+![car](https://github.com/EricFeng20001120/Generative-Diffusion-Model/blob/main/result/Qualitative%20Result/car.png)
+![dog](https://github.com/EricFeng20001120/Generative-Diffusion-Model/blob/main/result/Qualitative%20Result/dog.png)
