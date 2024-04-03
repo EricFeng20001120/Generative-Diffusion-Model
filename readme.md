@@ -43,3 +43,9 @@ https://drive.google.com/drive/folders/1wytT0t7CirUZw0_w3qFvhVn4dUgtPjX1?usp=sha
 | Original         | 20000        | 0.1695     | 0.3082    | 87.95%        |
 | Original+Synthetic | 21000      | 0.1276     | 0.2989    | 88.55%        |
 
+### Table 2: OxfordPet Cat vs Dog Numerical Results
+
+| Dataset Type       | Dataset Size | Train Risk | Test Risk | Test Accuracy |
+|--------------------|--------------|------------|-----------|---------------|
+| Original           | 4766         | 0.0899     | 1.1439    | 75.25%        |
+| Original+Synthetic | 5376         | 0.1479     | 0.7020    | 79.44%        |
