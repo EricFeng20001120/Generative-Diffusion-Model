@@ -49,3 +49,18 @@ https://drive.google.com/drive/folders/1wytT0t7CirUZw0_w3qFvhVn4dUgtPjX1?usp=sha
 |--------------------|--------------|------------|-----------|---------------|
 | Original           | 4766         | 0.0899     | 1.1439    | 75.25%        |
 | Original+Synthetic | 5376         | 0.1479     | 0.7020    | 79.44%        |
+
+## References
+
+1. Ho, J., Jain, A., and Abbeel, P. (2020). Denoising diffusion probabilistic models.
+2. Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L.; and Polosukhin, I. (2017). Attention Is All You Need.
+3. Wang, P. Denoising Diffusion Probabilistic Model in Pytorch. Github repository, [GitHub](https://github.com/lucidrains/denoising-diffusion-pytorch).
+4. Rogge, N., and Rasul, K. Google Colaboratory. Google Colab, Google Colab Notebook, [Google Colab](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb).
+5. LeCun, Y., Cortes, C., and Burges, C.J.C. (1998). The MNIST Database of Handwritten Digits. New York, USA. [MNIST Database](http://yann.lecun.com/exdb/mnist/).
+6. Schuler, J. P. S. (2021). CIFAR-10 64x64 Resized via CAI Super Resolution. Version 1. [Kaggle Discussion](https://www.kaggle.com/discussions/general/46091).
+7. Parkhi, O. M., Vedaldi, A., Zisserman, A., Jawahar, C. V. (2012). Cats and Dogs, IEEE Conference on Computer Vision and Pattern Recognition.
+8. DeepFindr. (2022). Diffusion Models from Scratch in Pytorch. [YouTube Video](https://www.youtube.com/watch?v=a4Yfz2FxXiY).
+9. Arora, A. (2020). U-Net A PyTorch Implementation in 60 Lines of Code. [Aman Arora’s Blog](https://amaarora.github.io/posts/2020-09-13-unet.html).
+10. Hedu AI by Batool Haider. (2020). Visual Guide to Transformer Neural Networks – (Episode 2) Multi-Head & Self-Attention. [YouTube Video](https://www.youtube.com/watch?v=mMa2PmYJlCo).
+11. Outlier. (2022). Diffusion Models | Pytorch Implementation. [YouTube Video](https://www.youtube.com/watch?v=TBCRlnwJtZU).
+
