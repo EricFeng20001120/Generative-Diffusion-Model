@@ -1,4 +1,4 @@
-# Project Title
+# Generative Diffusion Model
 
 ## Overview
 This project involves training diffusion models on various datasets to perform generative/denoising task and evaluated on classification tasks. The main focus is on image classification, including synthetic datasets and real-world images from the MNIST,Oxford Pets, CIFAR-10 datasets.
