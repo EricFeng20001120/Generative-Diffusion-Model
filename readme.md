@@ -34,3 +34,12 @@ https://drive.google.com/drive/folders/1wytT0t7CirUZw0_w3qFvhVn4dUgtPjX1?usp=sha
 ## Qualitative Result
 ![car](https://github.com/EricFeng20001120/Generative-Diffusion-Model/blob/main/result/Qualitative%20Result/car.png)
 ![dog](https://github.com/EricFeng20001120/Generative-Diffusion-Model/blob/main/result/Qualitative%20Result/dog.png)
+
+## Quantitative Result
+### Table 1: CIFAR-10 Car vs Truck Numerical Results
+
+| Dataset Type     | Dataset Size | Train Risk | Test Risk | Test Accuracy |
+|------------------|--------------|------------|-----------|---------------|
+| Original         | 20000        | 0.1695     | 0.3082    | 87.95%        |
+| Original+Synthetic | 21000      | 0.1276     | 0.2989    | 88.55%        |
+
