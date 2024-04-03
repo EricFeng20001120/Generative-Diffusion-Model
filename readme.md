@@ -28,3 +28,6 @@ https://drive.google.com/drive/folders/1wytT0t7CirUZw0_w3qFvhVn4dUgtPjX1?usp=sha
 - `utils.py`: Utility functions used across different notebooks and scripts, include forward diffusion calculation, sampling function, and visualization function.
 - `diffusion_model.py`: Contain diffusion model.
 
+##Model Architecture
+![model architecture](https://github.com/EricFeng20001120/Generative-Diffusion-Model/blob/main/result/Model%20Architecture%20Visualization/U-Net.drawio.png)
+
